@@ -8,14 +8,13 @@
 
 
 <h2>🎓 Education</h2>
-
 Bachelor of Science in Software Engineering
 Expected Graduation: 2017 Ethiopian Calendar
-  - Haramaya University, Ethiopia
+- Haramaya University, Ethiopia
 
 <h4>💼 Objective</h4>
 
-To secure an internship  or work at your company and gain valuable professional experience in the field of software  development.
+To secure an internship or work at your company and gain valuable professional experience in the field of software development.
 
 <h2>💻 Skills</h2>
 
@@ -26,10 +25,8 @@ Attention to detail and ability to work effectively in a team
 Adaptability and willingness to learn new technologies and concepts
 
 <h2>🚀 Projects</h2>
-
 **Payroll Management System:**
 developed a payroll management system that automated salary calculations, tax deductions, and employee record-keeping.
-
 Contact Management System:
 designed and implemented a contact management system that allowed users to store, manage, and search for contact information efficiently.
 
