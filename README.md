@@ -15,7 +15,7 @@ Expected Graduation: 2017 Ethiopian Calendar
 
 <h4>💼 Objective</h4>
 
-To secure an internship at your company and gain valuable professional experience in the field of iOS development.
+To secure an internship  or work at your company and gain valuable professional experience in the field of software  development.
 
 <h2>💻 Skills</h2>
 
